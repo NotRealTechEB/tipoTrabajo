@@ -34,5 +34,5 @@ public class TipoTrabajo {
         this.nombreTrabajo = nombreTrabajo;
     }
 
-    // Pon el cursor aquí y usa "Ctrl + ." para generar tus Getters y Setters
+
 }
